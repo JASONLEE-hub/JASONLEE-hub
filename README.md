@@ -13,5 +13,5 @@ Skills: SwiftUI / UIKit / Figma
 - ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity Engine when I was in college. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jae-seoung-%EC%9E%AC%EC%8A%B9-lee-%EC%9D%B4-49837522a//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jae-seoung-재승-lee-이-49837522a//)  
 
