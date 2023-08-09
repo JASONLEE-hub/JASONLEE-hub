@@ -10,7 +10,7 @@ Skills: SwiftUI / UIKit / Figma
 - 🤔 I’m looking for help with getting a job as a Japanese iOS engineer 
 - 📫 How to reach me: seoung128@gmail.com 
 - 😄 Pronouns: he/his/him 
-- ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity when I was in college. 
+- ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity Engine when I was in college. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jae-seoung-%EC%9E%AC%EC%8A%B9-lee-%EC%9D%B4-49837522a//)  
