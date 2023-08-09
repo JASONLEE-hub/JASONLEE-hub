@@ -8,6 +8,7 @@ Skills: SwiftUI / UIKit / Figma
 
 - 🌱 I’m currently learning SwiftUI, UIKit [https://github.com/JASONLEE-hub/iOS_Practice]
 - 🤔 I’m looking for help with getting a job as a Japanese iOS engineer 
+- 🗣️ I can speak in Korean, Japanese, and English (a little bit..).
 - 📫 How to reach me: seoung128@gmail.com 
 - 😄 Pronouns: he/his/him 
 - ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity Engine when I was in college. [https://github.com/JASONLEE-hub/ITDA] 
