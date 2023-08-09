@@ -6,11 +6,11 @@ In the future, I want to be a developer who can make interesting apps such as iO
 
 Skills: SwiftUI / UIKit / Figma 
 
-- 🌱 I’m currently learning SwiftUI, UIKit 
+- 🌱 I’m currently learning SwiftUI, UIKit [https://github.com/JASONLEE-hub/iOS_Practice]
 - 🤔 I’m looking for help with getting a job as a Japanese iOS engineer 
 - 📫 How to reach me: seoung128@gmail.com 
 - 😄 Pronouns: he/his/him 
-- ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity Engine when I was in college. 
+- ⚡ Fun fact: I was a digital marketing manager. I have experience in developing and launching Android apps using Unity Engine when I was in college. [https://github.com/JASONLEE-hub/ITDA] 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jae-seoung-재승-lee-이-49837522a//)  
