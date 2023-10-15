@@ -7,7 +7,7 @@ iOS エンジニア　希望者　イジェスン
 -------
 
 *   姓名: 李在勝 
-*   이메일 : [seoung128@gmail.com](seoung128@gmail.com)
+*   Email : [seoung128@gmail.com](seoung128@gmail.com)
 
 ⚡️ Channel
 -------
