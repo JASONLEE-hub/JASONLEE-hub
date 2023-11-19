@@ -1,7 +1,7 @@
 iOS エンジニア　希望者　イジェスン
 ==============
 
-### 挑戦する情熱エンジニアイジェスンです。
+### 情熱あるエンジニアイジェスンです。
 
 ✉️ Contact
 -------
@@ -12,15 +12,13 @@ iOS エンジニア　希望者　イジェスン
 ⚡️ Channel
 -------
 
-*   Twitter (X) : [twitter.com/seoung128](https://twitter.com/seoung128)
-
+*   Twitter : [twitter.com/seoung128](https://twitter.com/seoung128)
 
 🤗 Introduce
 -------
 
-iOS開発、Android開発、Unity、webマーケティング、日本ワーキングホリデーなど色んな経験を挑戦しております。
-2020年コロナの時期に住んだ日本に、大変だったけど大切な思い出、友達、彼女がいます、そして日本の会社文化を憧れ、自分の能力を活かして日本にiOSエンジニアとして住みたいです。
-よろしくお願いします。
+iOSアプリスクールを修了し、16人のメンバーと協力しながらアプリ開発をした経験があります。 
+デジタルマーケターの経験からデジタルメディアやデザインツールに対する理解も高く、プロジェクトで意見を提示しながら、より良い方向に進めていける自信があります。
 
 🏫 Education & Career
 -------
@@ -33,35 +31,31 @@ iOS開発、Android開発、Unity、webマーケティング、日本ワーキ�
 🧑‍💻 Project
 -------
 
-*   遅刻防止アプリ ZIPADOO (2023.09 ~ 10, アプリスクール プロジェクト3) : kakaoログイン、MapKitを使って約束状況View制作、Firebase連動、直線距離計算、デザインなど。 使用言語、記述: SwiftUI, Firebase
-*   Seminar申請管理アプリ Ticket Lion (2023.09, アプリスクール プロジェクト2) : HomeView制作、Firebase連動、デザインなど。 使用言語、記述: SwiftUI, Firebase
-*   HeadHunter専用アプリ 雪だるまハンター (2023.08, アプリスクール プロジェクト1) : LoungeView制作、Firebase連動、デザインなど。 使用言語、記述: SwiftUI, Firebase
-*   iOS 個人 Study : [github.com/JASONLEE-hub/iOS\_Practice](https://github.com/JASONLEE-hub/iOS\_Practice)
+*   Seminar申請管理アプリ Ticket Lion (2023.09, アプリスクール プロジェクト) : HomeView制作、Firebase連動、デザインなど。 使用言語、記述: SwiftUI, Firebase : [github.com/JASONLEE-hub/Seminar-application-in-TECHIT](https://github.com/JASONLEE-hub/Seminar-application-in-TECHIT)
+*   遅刻防止アプリ ZIPADOO (2023.09 ~ 10, アプリスクール プロジェクト) : kakaoログイン、MapKitを使って約束状況View制作、Firebase連動、直線距離計算、デザインなど。 使用言語、記述: SwiftUI, Firebase
 *   ITDA (2019) : Android アプリ 開発. 使用言語、記述: UnityEngine, Playmaker : [github.com/JASONLEE-hub/ITDA](https://github.com/JASONLEE-hub/ITDA)
 *   Unity3DGame　BubbleMoon (2021) : PC game 開発. 使用言語、記述: UnityEngine, C# : [github.com/JASONLEE-hub/Bubble-Moon-Project](https://github.com/JASONLEE-hub/Bubble-Moon-Project)
 
 🍏 Skill
 -----
 
-*   **SwiftUI** - 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다.
+*   **SwiftUI** - 画面実装だけでなく、データ通信によるアプリ実装も可能で、配布した経験があります。
 
-*   **UIKit** - 스토리보드뿐 아니라 코드를 통해 개발 가능합니다.
+*   **UIKit** - ストーリーボードだけでなく、コードを通じて開発できます。
 
-*   **Swift** - Swift의 기본 문법을 이해하고 사용합니다
+*   **MVC/MVVM** - MVC、MVVMパターンを活用してアプリを作った経験があります。
 
-*   **MVC/MVVM** - MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
+*   **Framework And Library** - さまざまなフレームワークやライブラリを理解し、活用できます。 MapKit、WKWebView、SafariServices、AVKitなどを活用した経験があります。
 
-*   **Framework And Library** - 다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다. OO,OO,OO 등 활용해본 경험이 있습니다. (추가예정)
+*   **Git&Github** - GitHubを活用したアプリバージョン管理と他の人と協業した経験があります。
 
-*   **Git&Github** - 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
+*   **Language** - 日本語 - JLPT 1級保有、現在までも円滑に日本人知人と疎通中です。
 
-*   **Language** - 일본어 - JLPT 1급 보유, 현재까지도 원활하게 일본인 지인들과 소통중입니다.
+*   **Figma&Photoshop&illustrator** - デジタルコンテンツデザイン学科卒業、デジタルマーケティング広告素材製作経験、デザインツールを活用した経験があります。 : [デザインポートフォリオ](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
 
-*   **Figma&Photoshop&illustrator** - 디지털콘텐츠 디자인학과 졸업, 디지털마케팅 광고소재 제작 경험, 디자인 툴을 활용한 경험이 있습니다. : [디자인 포트폴리오](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
+*   **Slack&Notion** - コラボレーション ツールを活用してコミュニケーションが可能です。
 
-*   **Slack&Notion** - 협업 툴을 활용하여 의사소통 가능합니다.
-
-⭐️ 기타 수상 내역
+⭐️ その他の受賞内訳
 --------
 
-*   명지대학교 창업경진대회 장려상 (2021)
+*   明知大学校創業競進大会奨励賞(2021)
