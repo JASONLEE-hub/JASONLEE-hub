@@ -53,7 +53,7 @@ iOS 앱스쿨을 수료하고, 최대 16명의 인원과 협업한 경험이 있
 
 *   **UIKit** - 스토리보드뿐 아니라 코드를 통해 개발 가능합니다.
 
-*   **MVC/MVVM** - MVVM패턴을 이해하고、ObservableObject을 따르는 ViewModel、Store을 활용한 개발이 가능합니다. 
+*   **MVC/MVVM** - MVVM패턴을 이해하고、ViewModel、Store을 활용한 개발이 가능합니다. 
 
 *   **Framework And Library** - MapKit、WKWebView、SafariServices、AVKit등의 라이브러리를 활용가능, 외부 API를 사용한 개발이 가능합니다. 
 
