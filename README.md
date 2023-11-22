@@ -25,7 +25,7 @@ iOSエンジニア 希望者 イ·ジェスン
 
 *   韓国 TECHITアプリスクール iOS アプリ開発 課程履修中 / 2023.05.22 ~ 2023.10.25 - [WebSite](https://techit.education/school/kdt-app-3rd)
 *   韓国 Webマーケティング エージェンシー Vanced Webマーケティングマネージャー勤務 / 2022.09 ~ 2023.05
-*   韓国 Myongji University DigitalContentsDesign学科卒業 / 2022.02 - [WebSite](https://www.mju.ac.kr/mjukr/667/subview.do)
+*   韓国 Myongji University Digital Content Design学科卒業 / 2022.02 - [WebSite](https://www.mju.ac.kr/mjukr/667/subview.do)
 *   日本 大阪ワーキングホリデー コンビニのレジ、飲食店のキッチンなどのアルバイト経験 / 2020.02 ~ 2021.02
 
 🧑‍💻 Project
