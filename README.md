@@ -45,7 +45,7 @@ iOSエンジニア 希望者 イ·ジェスン
 
 *   **SwiftUI** - SwiftUIを使用して画面の実装だけでなく、Firebaseサーバーを使用してデータ通信が可能なアプリ開発が可能です。
 
-*   **MVVM/ViewModel,Store** - MVVMパターンを理解し、様々なViewで使用するObservableObjectに従うClass、ViewModel、Storeを活用した開発が可能です。
+*   **MVVM/ViewModel,Store** - MVVMパターンを理解し、様々なViewで使用するObservableObjectに従うViewModel、Storeを活用した開発が可能です。
 
 *   **Framework And Library** - MapKit、WKWebView、SafariServices、AVKitなどのライブラリを活用でき、外部APIを使用した開発が可能です。
 
