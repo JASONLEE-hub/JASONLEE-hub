@@ -47,7 +47,7 @@ iOSエンジニア イ·ジェスン
 🍏 Skill
 -----
 
-*   **SwiftUI** - SwiftUIを使用して画面の実装だけでなく、Firebaseサーバーを使用してデータ通信が可能なアプリ開発が可能です。
+*   **SwiftUI** - SwiftUIを使用して画面の実装だけでなく、Firebaseサーバーを使用してデータ通信が可能なアプリを開発できます。
 
 *   **MVVM/ViewModel,Store** - MVVMパターンを理解し、ViewModel、Storeを活用した開発が可能です。
 
