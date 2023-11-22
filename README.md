@@ -43,19 +43,17 @@ iOSエンジニア 希望者 イ·ジェスン
 🍏 Skill
 -----
 
-*   **SwiftUI** - 画面実装だけでなく、データ通信によるアプリ実装も可能で、配布した経験があります。
+*   **SwiftUI** - SwiftUIを使用して画面の実装だけでなく、Firebaseサーバーを使用してデータ通信が可能なアプリ開発が可能です。
 
-*   **UIKit** - ストーリーボードだけでなく、コードを通じて開発できます。
+*   **MVVM** - MVVMパターンを理解し、様々なViewで使用するObservableObjectに従うClass、ViewModel、Storeを活用した開発が可能です。
 
-*   **MVC/MVVM** - MVC、MVVMパターンを活用してアプリを作った経験があります。
+*   **Framework And Library** - MapKit、WKWebView、SafariServices、AVKitなどのライブラリを活用でき、外部APIを使用した開発が可能です。
 
-*   **Framework And Library** - さまざまなフレームワークやライブラリを理解し、活用できます。 MapKit、WKWebView、SafariServices、AVKitなどを活用した経験があります。
-
-*   **Git&Github** - GitHubを活用したアプリバージョン管理と他の人と協業した経験があります。
+*   **Git&Github** - GitHubを活用したアプリバージョン管理と最大16人と協力した経験があります。
 
 *   **Language** - 日本語 - JLPT 1級保有、現在までも円滑に日本人知人と疎通中です。
 
-*   **Figma&Photoshop&illustrator** - デジタルコンテンツデザイン学科卒業、デジタルマーケティング広告素材製作経験、デザインツールを活用した経験があります。 - [デザインポートフォリオ](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
+*   **Figma&Photoshop&illustrator** - デジタルコンテンツデザイン学科卒業、Webマーケティング広告素材多数製作、デザインツールを活用ができます。 - [デザインポートフォリオ](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
 
 *   **Slack&Notion** - コラボレーション ツールを活用してコミュニケーションが可能です。
 
