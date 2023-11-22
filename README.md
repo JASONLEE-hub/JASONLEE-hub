@@ -57,7 +57,8 @@ iOSエンジニア 希望者 イ·ジェスン
 
 *   **Language** - 日本語 - JLPT 1級保有、現在までも円滑に日本人知人と疎通中です。
 
-*   **Figma&Photoshop&illustrator** - デジタルコンテンツデザイン学科卒業、Webマーケティング広告素材多数製作、デザインツールを活用ができます。 - [デザインポートフォリオ](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
+*   **Figma&Photoshop&illustrator** - デジタルコンテンツデザイン学科卒業、Webマーケティング広告素材多数製作、デザインツールを活用ができます。 
+- [デザインポートフォリオ](https://www.figma.com/file/UnhxIJ4jyHKKqpUI1zxeXB/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=212%3A118&mode=design&t=WKV6wBVlV5jWTyNT-1)
 
 *   **Slack&Notion＆Discord** - 協業ツールを活用してコミュニケーションした経験が多数あります。
 
