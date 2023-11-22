@@ -13,7 +13,6 @@ iOSエンジニア 希望者 イ·ジェスン
 -------
 
 *   Twitter : [twitter.com/seoung128](https://twitter.com/seoung128)
-*   Linkedin : [linkedin.com/in/jaeseounglee128](https://www.linkedin.com/in/jaeseounglee128/)
 
 🤗 Introduce
 -------
