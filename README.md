@@ -35,9 +35,9 @@ iOSエンジニア 希望者 イ·ジェスン
     *   kakaoログイン、MapKitを使って約束状況View制作、Firebase連動、直線距離計算、デザインなど。 使用言語、記述: SwiftUI, Firebase
 *   #### Seminar申請管理アプリ Ticket Lion (2023, アプリスクール プロジェクト) - [Link](https://github.com/JASONLEE-hub/Seminar-application-in-TECHIT)
     *   HomeView制作、Firebase連動、デザインなど。 使用言語、記述: SwiftUI, Firebase
-*   #### ITDA (2019) - [Link](https://github.com/JASONLEE-hub/ITDA)
+*   #### ITDA (2019, Android) - [Link](https://github.com/JASONLEE-hub/ITDA)
     *   Android アプリ 開発. 使用言語、記述: C#, UnityEngine, Playmaker
-*   #### Unity3DGame　BubbleMoon (2021) - [Link](https://github.com/JASONLEE-hub/Bubble-Moon-Project)
+*   #### BubbleMoon (2021, Unity3DGame) - [Link](https://github.com/JASONLEE-hub/Bubble-Moon-Project)
     *   PC game 開発. 使用言語、記述: UnityEngine, C#
 
 🍏 Skill
