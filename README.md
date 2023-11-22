@@ -31,8 +31,8 @@ iOSアプリスクールを修了し、16人のメンバーと協力しながら
 🧑‍💻 Project
 -------
 
+*   遅刻防止アプリ ZIPADOO (2023, アプリスクール プロジェクト) : kakaoログイン、MapKitを使って約束状況View制作、Firebase連動、直線距離計算、デザインなど。 使用言語、記述: SwiftUI, Firebase : [github.com/JASONLEE-hub/ZIPADOO-in-TECHIT](https://github.com/JASONLEE-hub/ZIPADOO-in-TECHIT)
 *   Seminar申請管理アプリ Ticket Lion (2023, アプリスクール プロジェクト) : HomeView制作、Firebase連動、デザインなど。 使用言語、記述: SwiftUI, Firebase : [github.com/JASONLEE-hub/Seminar-application-in-TECHIT](https://github.com/JASONLEE-hub/Seminar-application-in-TECHIT)
-*   遅刻防止アプリ ZIPADOO (2023, アプリスクール プロジェクト) : kakaoログイン、MapKitを使って約束状況View制作、Firebase連動、直線距離計算、デザインなど。 使用言語、記述: SwiftUI, Firebase
 *   ITDA (2019) : Android アプリ 開発. 使用言語、記述: UnityEngine, Playmaker : [github.com/JASONLEE-hub/ITDA](https://github.com/JASONLEE-hub/ITDA)
 *   Unity3DGame　BubbleMoon (2021) : PC game 開発. 使用言語、記述: UnityEngine, C# : [github.com/JASONLEE-hub/Bubble-Moon-Project](https://github.com/JASONLEE-hub/Bubble-Moon-Project)
 
